@@ -1,0 +1,5 @@
+#global-link{width:100%;height:40px}
+#global-link ul{list-style:none;width:100%;padding-left:2em;padding-top:3px;background:#1b1b1b;border-bottom:1px outset #ccc}
+#global-link ul li{display:inline-block;padding:0 5px}
+#global-link ul li a img{padding:3px}
+#global-link ul li a img.current{border-top:1px solid #ca0d89}
